@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-#### I'm currently working on MindsetLab
+- 🔭 I’m currently working on Mindset
+- 🌱 I’m currently learning Angular and NodeJS 
+- 👯 I’m looking to collaborate on new projects
+- 💬 Ask me about www.epaulgr.com
+- 📫 How to reach me: www.epaulgr.com
+- ⚡ Fun fact: I'm so sarcastic
 
 
 <!--
